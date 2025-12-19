@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#181818"  />
+</div>
+
 <h1 align="center">Hi, this is what I’ve been working with as a Junior Developer 🙈:</h1>
 
 ###
@@ -28,12 +32,12 @@
 
 ###
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jRodas497&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jRodas497&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=jRodas497&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jRodas497&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jRodas497&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jRodas497&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
 
 ###
 
@@ -48,9 +52,15 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Rodassss">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Rodassss&count=5&unique=false" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/dpz7y0uqj43lrix1u26n9p26p">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=dpz7y0uqj43lrix1u26n9p26p&count=5" alt="Spotify recently played"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jRodas497&"  />
 </div>
 
 ###
