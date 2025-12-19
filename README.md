@@ -46,20 +46,24 @@
 ###
 
 <div align="center">
+  <!-- LinkedIn (ajusta si luego cambias el link) -->
   <a href="https://www.linkedin.com/in/juan-josé-rodas-309754300" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
   </a>
 
+  <!-- Facebook -->
   <a href="https://www.facebook.com/jRodas.jj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Facebook&logo=facebook&color=1877F2&logoColor=white&style=for-the-badge"/>
   </a>
 
+  <!-- Gmail -->
   <a href="mailto:juanjoserodas497@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"/>
   </a>
 
-  <a href="https://www.instagram.com/rodas._jj/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/rodas._jj" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
