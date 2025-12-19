@@ -32,14 +32,16 @@
 
 ###
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jRodas497&hide_title=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" height="150"/><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jRodas497&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
-
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=jRodas497&hide_title=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jRodas497&layout=compact&langs_count=6&theme=dracula" height="150"/>
+    </td>
+  </tr>
+</table>
 
 ###
 
